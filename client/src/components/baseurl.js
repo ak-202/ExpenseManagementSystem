@@ -1,0 +1,1 @@
+export const BASE_URL="https://ak-ems.onrender.com/api/v1";
